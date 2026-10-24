@@ -1,0 +1,6 @@
+Student Name, Matric. Number, Department, Level
+Oluchi Mordi, 26120111054, Accounting, 300
+Adams Aliyu, 26120111045, Economics, 100
+Shania Bolade, 26120111504, Computer, 200
+Adekunle Gold, 26120110154, Electrical, 200
+Blanca Edemoh, 26120115014, Mechanical, 100
